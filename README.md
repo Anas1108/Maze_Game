@@ -3,8 +3,8 @@ A C++ implementation of a command line maze game where the player navigates thro
 
 ## Running the program
 To run the program, navigate to the project directory in a terminal and run:
-  g++ maze.cpp -o maze
-  ./maze
+- g++ MazeGame.cpp -o MazeGame
+- ./MazeGame
  
  
 ## Gameplay
